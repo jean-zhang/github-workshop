@@ -1,2 +1,2 @@
 # github-workshop
-CS1210 Workshop!
+CS1210 Workshop
